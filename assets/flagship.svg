@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Two side-by-side terminal panes. Left: GPCR Annotation Tools, 214 commits, solo-authored -- a Gemini model proposes each structural-annotation field, deterministic validators hold veto power over every one, every override written to an append-only audit trail; being deployed, NAR manuscript submitted, first author. Right: the container platform GPCRdb runs on, 10 PRs merged, 43 stars and 75 forks -- Django plus RDKit-PostgreSQL, health-check-gated startup, multi-architecture images, and a 36-cell Python by Django by RDKit compatibility matrix automated in CI, across two container repositories of his own plus 10 PRs merged into the upstream GPCRdb codebase.">
+<title>bash -- flagship  (2 panes)</title>
+<rect x="0" y="0" width="900" height="340" rx="10" fill="#010409"/>
+<rect x="0" y="0" width="900" height="40" rx="10" fill="#161b22"/>
+<rect x="0" y="30" width="900" height="10" fill="#161b22"/>
+<circle cx="28" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="50" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="72" cy="20" r="6" fill="#27c93f"/>
+<text x="450" y="24.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e" text-anchor="middle">bash -- flagship  (2 panes)</text>
+<rect x="450.0" y="56" width="1" height="266" fill="#21262d"/>
+<text x="30.0" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#3fb950">~/GPCR-annotation-tools $</text>
+<text x="30.0" y="100" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" font-weight="600">GPCR Annotation Tools</text>
+<rect x="30.0" y="125" width="88.6" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="38.0" y="138.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">214 commits</text>
+<rect x="125.6" y="125" width="101.8" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="133.6" y="138.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">solo-authored</text>
+<text x="30.0" y="157" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">A Gemini model proposes each structural-annotation</text>
+<text x="30.0" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">field; a chain of deterministic validators holds veto</text>
+<text x="30.0" y="193" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">power over every one of them, and every override is</text>
+<text x="30.0" y="211" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">written to an append-only audit trail.</text>
+<text x="30.0" y="237" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6e7681">Started as a fork of the GPCRdb team's repo -- being</text>
+<text x="30.0" y="255" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6e7681">deployed, NAR manuscript submitted (first author).</text>
+<text x="30.0" y="281" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#58a6ff">github.com/iskoldt-X/GPCR-annotation-tools</text>
+<text x="463.0" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#3fb950">~/protwis $</text>
+<text x="463.0" y="100" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" font-weight="600">The container platform GPCRdb runs on</text>
+<rect x="463.0" y="125" width="101.8" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="471.0" y="138.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">10 PRs merged</text>
+<rect x="571.8" y="125" width="141.4" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="579.8" y="138.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">43 stars / 75 forks</text>
+<text x="463.0" y="157" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">Django + RDKit-PostgreSQL, health-check-gated startup,</text>
+<text x="463.0" y="175" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">multi-architecture images, and a 36-cell Python x</text>
+<text x="463.0" y="193" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">Django x RDKit compatibility matrix that runs</text>
+<text x="463.0" y="211" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#8b949e">automatically in CI on every push.</text>
+<text x="463.0" y="237" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#6e7681">Official GPCRdb infrastructure, merged upstream.</text>
+<text x="463.0" y="263" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#58a6ff">protwis/protwis  (10 PRs merged upstream)</text>
+<text x="463.0" y="280" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#58a6ff">protwis/protwis_django_docker</text>
+<text x="463.0" y="297" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#58a6ff">protwis/postgres_rdkit_docker</text>
+<rect x="0.5" y="0.5" width="899" height="339" rx="10" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>

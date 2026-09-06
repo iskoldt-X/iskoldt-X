@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="A tree listing of three kinds of evidence. pre-computation-pipeline: a private codebase with no public repo, staged SLURM jobs with explicit contracts, resumable, about 250 automated tests plus a golden-fixture regression suite, built on the licensed Schrodinger Suite. viral-genomes-LSTM: MSc research, PyTorch sequence models trained on HPC over 15.6 million GISAID SARS-CoV-2 genomes, Gene 2024 volume 916:148426, first author. Plasmer: co-developed as third author, a Random Forest classifier for plasmid host-range prediction, 56 citations, 1.1 thousand Docker pulls.">
+<title>bash -- tree more/</title>
+<rect x="0" y="0" width="900" height="460" rx="10" fill="#010409"/>
+<rect x="0" y="0" width="900" height="40" rx="10" fill="#161b22"/>
+<rect x="0" y="30" width="900" height="10" fill="#161b22"/>
+<circle cx="28" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="50" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="72" cy="20" r="6" fill="#27c93f"/>
+<text x="450" y="24.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e" text-anchor="middle">bash -- tree more/</text>
+<text x="30" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3fb950">binghan@github:~$ tree more/</text>
+<text x="30" y="106" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#e6edf3" font-weight="600">more/</text>
+<text x="30" y="130" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#e6edf3" font-weight="600">|-- pre-computation-pipeline/</text>
+<text x="305.4" y="130" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#d29922">private codebase, no public repo</text>
+<text x="30" y="154" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">|   |-- slurm/</text>
+<text x="305.4" y="154" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">staged jobs, explicit contracts, resumable</text>
+<text x="30" y="178" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">|   |-- tests/</text>
+<text x="305.4" y="178" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">~250 automated + golden-fixture regression suite</text>
+<text x="30" y="202" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">|   `-- STATUS</text>
+<text x="305.4" y="202" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">licensed Schrodinger Suite</text>
+<text x="30" y="238" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#e6edf3" font-weight="600">|-- viral-genomes-LSTM/</text>
+<text x="305.4" y="238" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#d29922">MSc research</text>
+<text x="30" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">|   |-- pytorch/</text>
+<text x="305.4" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">sequence models trained on HPC</text>
+<text x="30" y="286" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">|   |-- corpus/</text>
+<text x="305.4" y="286" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">15.6M GISAID SARS-CoV-2 genomes</text>
+<text x="30" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">|   `-- PAPER</text>
+<text x="305.4" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">Gene 2024; 916:148426 (first author)</text>
+<text x="30" y="346" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#e6edf3" font-weight="600">`-- Plasmer/</text>
+<text x="305.4" y="346" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#d29922">co-developed, third author</text>
+<text x="30" y="370" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">    |-- model/</text>
+<text x="305.4" y="370" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">Random Forest, plasmid host-range prediction</text>
+<text x="30" y="394" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">    |-- uptake/</text>
+<text x="305.4" y="394" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">56 citations, 1.1k Docker pulls</text>
+<text x="30" y="418" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#8b949e">    `-- SOURCE</text>
+<text x="305.4" y="418" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#6e7681">github.com/nekokoe/Plasmer</text>
+<rect x="0.5" y="0.5" width="899" height="459" rx="10" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>

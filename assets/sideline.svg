@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="362" viewBox="0 0 900 362" role="img" aria-label="A grid of six side projects. ankidkdeck, 11 stars, a 3,000-word Danish core-vocabulary Anki deck with IPA and audio. DR-LRC, local Whisper transcription of Danish public-radio audio. BifrostLingua, a smaller Danish-learning helper tool. savebot, 5 stars, a Telegram bot containerized with Docker. iskoldtbark, a push-notification CLI for my own automation pipelines. SRUN-authenticator, 78 stars, auto-login for a campus network gateway, and where my coding started.">
+<title>bash -- ls play/</title>
+<rect x="0" y="0" width="900" height="362" rx="10" fill="#010409"/>
+<rect x="0" y="0" width="900" height="40" rx="10" fill="#161b22"/>
+<rect x="0" y="30" width="900" height="10" fill="#161b22"/>
+<circle cx="28" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="50" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="72" cy="20" r="6" fill="#27c93f"/>
+<text x="450" y="24.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e" text-anchor="middle">bash -- ls play/</text>
+<text x="30" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#3fb950">binghan@github:~$ ls play/</text>
+<rect x="30.0" y="96" width="268.0" height="112" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="44.0" y="122" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3" font-weight="600">ankidkdeck</text>
+<rect x="215.2" y="108" width="68.8" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="223.2" y="121.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">11 stars</text>
+<text x="44.0" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">3,000-word Danish core-vocabulary</text>
+<text x="44.0" y="160" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">Anki deck, with IPA and audio.</text>
+<rect x="316.0" y="96" width="268.0" height="112" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="330.0" y="122" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3" font-weight="600">DR-LRC</text>
+<text x="330.0" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">Local Whisper transcription of</text>
+<text x="330.0" y="160" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">Danish public-radio audio.</text>
+<rect x="602.0" y="96" width="268.0" height="112" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="616.0" y="122" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3" font-weight="600">BifrostLingua</text>
+<text x="616.0" y="144" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">A smaller Danish-learning helper</text>
+<text x="616.0" y="160" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">tool.</text>
+<rect x="30.0" y="226" width="268.0" height="112" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="44.0" y="252" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3" font-weight="600">savebot</text>
+<rect x="221.8" y="238" width="62.2" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="229.8" y="251.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">5 stars</text>
+<text x="44.0" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">A Telegram bot, containerized with</text>
+<text x="44.0" y="290" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">Docker.</text>
+<rect x="316.0" y="226" width="268.0" height="112" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="330.0" y="252" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3" font-weight="600">iskoldtbark</text>
+<text x="330.0" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">A push-notification CLI for my own</text>
+<text x="330.0" y="290" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">automation pipelines.</text>
+<rect x="602.0" y="226" width="268.0" height="112" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="616.0" y="252" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e6edf3" font-weight="600">SRUN-authenticator</text>
+<rect x="787.2" y="238" width="68.8" height="19" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="795.2" y="251.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8b949e">78 stars</text>
+<text x="616.0" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">Auto-login for a campus network</text>
+<text x="616.0" y="290" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#8b949e">gateway.</text>
+<text x="616.0" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace,'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC',sans-serif" font-size="11.5" fill="#6e7681">我写代码的起点。</text>
+<rect x="0.5" y="0.5" width="899" height="361" rx="10" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>
