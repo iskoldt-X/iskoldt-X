@@ -165,7 +165,7 @@ started.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-333333?style=flat-square)
 
-**Cloud (used, not deep)**
+**Cloud**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
